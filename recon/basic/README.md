@@ -1,6 +1,11 @@
 ## Description
 
-A powershell script that executes a series of commands to obtain basic information about the machine including users, network interfaces, services and security.
+A powershell script that executes a series of commands to obtain basic information about the machine including:
+* Users
+* Network interfaces
+* Services running
+* Security information
+* Apps installed
 
 ## Tested Platforms
 
